@@ -1,0 +1,43 @@
+/* 
+https://youtu.be/LFubrq6dnE4
+*/
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 1rem;
+}
+
+/* Semantic elements borders */
+
+body, header, main, footer {
+    min-height: 50px;
+    margin: 0.5rem;
+}
+
+/* BODY */
+
+body {
+    border: 3px yellow solid;
+}
+
+/* HEADER */
+
+header {
+    border: 3px blue solid;
+}
+
+/* MAIN */
+
+main {
+    border: 3px red solid;
+    min-height: 100px;
+}
+
+/* FOOTER */
+
+footer {
+    border: 3px green solid;
+}
