@@ -20,24 +20,24 @@ body, header, main, footer {
 /* BODY */
 
 body {
-    border: 3px yellow solid;
+    background-color: yellow;
 }
 
 /* HEADER */
 
 header {
-    border: 3px blue solid;
+    background-color: blue;
 }
 
 /* MAIN */
 
 main {
-    border: 3px red solid;
+    background-color: red;
     min-height: 100px;
 }
 
 /* FOOTER */
 
 footer {
-    border: 3px green solid;
+    background-color: green;
 }
